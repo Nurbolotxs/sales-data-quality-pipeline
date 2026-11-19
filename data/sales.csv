@@ -1,0 +1,11 @@
+order_id,product,quantity,price
+101,Laptop,2,500
+102,Mouse,3,20
+103,Keyboard,-2,50
+101,Laptop,2,500
+104,Monitor,1,
+105,Webcam,2,45.50
+106,Headset,1,75
+107,Desk,0,150
+108,Chair,1,120
+109,Mouse,2,20
